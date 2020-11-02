@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Full App Practice</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vaibhav">Vaibhav</string>
+    <string name="india_gujarat">India, Gujarat</string>
+    <string name="info">Personal Info</string>
+    <string name="profession">Profession:</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="company">Company:</string>
+    <string name="ibl_infotech">IBL Infotech</string>
+    <string name="phone_no">Mobile No:</string>
+    <string name="No">2525252525</string>
+    <string name="birth_date">Birth Date:</string>
+    <string name="birth">03-08-1999</string>
+    <string name="birth_place">Birth Place:</string>
+    <string name="birthplace">Surat</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="cricket_football">Cricket, Football</string>
+    <string name="submit">Submit</string>
+    <string name="recyler">RecyclerView</string>
+    <string name="cptool">Collspaning Toolbar</string>
+    <string name="cam">Camera And Gallery</string>
+    <string name="horizontal">Horizontal And Grid RecyclerView</string>
+</resources>
